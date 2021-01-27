@@ -17,7 +17,7 @@ var events = [
     {'Date': new Date(2020, 1, 3), 'Title': 'Opportunity Event', 'Link': 'https://events.bizzabo.com/219546'},
     {'Date': new Date(2020, 5, 1), 'Title': 'Client Services @ Bizzabo', 'Link': 'https://events.bizzabo.com/213815'},
     {'Date': new Date(2020, 3, 6), 'Title': 'Roadshow - Santa Cruz', 'Link': 'https://events.bizzabo.com/212292'},
-    {'Date': new Date(2021, 0, 1), 'Title': 'olutions @ Bizzabo', 'Link': 'https://events.bizzabo.com/solutions'},
+    {'Date': new Date(2021, 0, 1), 'Title': 'Solutions @ Bizzabo', 'Link': 'https://events.bizzabo.com/solutions'},
     {'Date': new Date(2019, 3, 4), 'Title': 'BizzaHealth HQ', 'Link': 'https://events.bizzabo.com/213239'},
     {'Date': new Date(2019, 2, 3), 'Title': 'Event Calendar Training - 03/03/20', 'Link': 'https://events.bizzabo.com/213128'},
     {'Date': new Date(2021, 1, 3), 'Title': 'Salesforce Tower SF', 'Link': 'https://events.bizzabo.com/212294'},
