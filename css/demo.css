@@ -1,0 +1,17 @@
+body{
+    font-family: Calibri, sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #333;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+  li:first-child {
+    margin-top: 100px;
+  }
+  
+  a {
+    margin-top: 100px;
+  }
